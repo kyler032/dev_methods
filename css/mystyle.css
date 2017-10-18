@@ -92,3 +92,10 @@ font-weight: bold;
 em {
 font-style: italic;
 }
+
+/*mystyles*/
+
+h1 {
+	font-size: 150%;
+	color: red;
+}
